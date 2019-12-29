@@ -42,6 +42,10 @@ a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
+.image {
+    text-align: center;
+}
+
 
 /*Footer*/
 .footeres {
